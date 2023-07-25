@@ -6,11 +6,7 @@ body {
   background-image: linear-gradient(to right, #1973fe, #97ff00);
 }
 
-
 .img-container {
-    
-    
-    height: 600px;
-background: url("img/1.jpg") center/cover fixed no-repeat ;
-
+  height: 600px;
+  background: url("img/1.jpg") center/cover fixed no-repeat;
 }
